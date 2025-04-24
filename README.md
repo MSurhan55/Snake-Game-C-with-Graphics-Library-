@@ -1,1 +1,1 @@
-# Snake-Game-C-with-Graphics-Library-
+Designed and developed a classic Snake Game using C++ and the graphics.h library for a visually interactive console gaming experience. The game features smooth snake movement, dynamic food generation, score tracking, and collision detection mechanisms. It demonstrates object movement using coordinate logic, basic animation, and real-time input handling using keyboard events.
